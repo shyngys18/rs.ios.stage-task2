@@ -10,7 +10,7 @@
 - C#
 - Swift
 ## Experience
-*2021 -Current - Data - analyst, HomeCreditBank Kazakhstan*
+*2021 -Current - Data - analyst , HomeCreditBank Kazakhstan*
 ## Education
 - *KBTU - Information Systems and Technology*
 ## English
